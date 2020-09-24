@@ -1,0 +1,90 @@
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csprojAssemblyReference.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CoreCompileInputs.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CopyComplete
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\01.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csprojAssemblyReference.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CoreCompileInputs.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CopyComplete
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\02.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csprojAssemblyReference.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CoreCompileInputs.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CopyComplete
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\06.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.pdb
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll.config
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csprojAssemblyReference.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CoreCompileInputs.cache
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CopyComplete
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.dll
+C:\Users\ridvan\Desktop\YMS 3138\10-WebProject\07.07\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.pdb
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll.config
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.dll
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Service.pdb
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.pdb
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Core.dll.config
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.pdb
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\BitPazari.Model.dll.config
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.dll
+C:\Users\ASUS\Desktop\BitPazari\BitPazari.Service\obj\Debug\BitPazari.Service.pdb

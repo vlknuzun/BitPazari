@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table id="tblSepet" class="table table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Amount</th>
+            <th>SubTotal</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="2">Toplam Sepet Tutarı</td>
+            <td id="tdToplamFiyat" colspan="3"> </td>
+        </tr>
+    </tfoot>
+</table>
+
+@section scripts{
+    <script>
+       $(document).ready(function () {
+           $.ajax({
+               type: "Get",
+               url: '@Url.Action("List","Cart")',
+               data: {},
+               success: function (data) {
+                   $.each(data, function (key, value) {
+                       $("table#tblSepet tbody").append(
+                           "<tr>" +
+                           "<td>" + value.Id + "</td>" +
+                           "<td>" + value.Name + "</td>" +
+                           "<td>" + value.Price + "</td>" +
+                           "<td>" + value.Amount + "</td>" +
+                           "<td>" + value.SubTotal + "</td>" +
+                           "</tr>");
+                   })
+               }
+               })
+
+       })
+
+    </script>
+
+}

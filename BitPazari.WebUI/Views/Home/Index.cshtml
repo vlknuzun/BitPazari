@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+    <div class="row">
+        @{Html.RenderAction("ProductList", "Home", new { area = "" });}
+    </div>
+

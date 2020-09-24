@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPazari.Core", "BitPazari.Core\BitPazari.Core.csproj", "{4F240FF2-B4E7-48F0-9E13-DC34F32280C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPazari.Model", "BitPazari.Model\BitPazari.Model.csproj", "{E2369685-897D-4EC7-AB70-B9A844043BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPazari.Service", "BitPazari.Service\BitPazari.Service.csproj", "{68128DEF-3F0B-4AD1-A927-8312421D7F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPazari.WebUI", "BitPazari.WebUI\BitPazari.WebUI.csproj", "{0BB9A9DC-C964-4C1C-A5DF-015E7150055E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPazari.AuthService", "BitPazari.AuthService\BitPazari.AuthService.csproj", "{7F3858CB-C701-4BB2-ABB1-BF61D6CA8126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F240FF2-B4E7-48F0-9E13-DC34F32280C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F240FF2-B4E7-48F0-9E13-DC34F32280C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F240FF2-B4E7-48F0-9E13-DC34F32280C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F240FF2-B4E7-48F0-9E13-DC34F32280C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2369685-897D-4EC7-AB70-B9A844043BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2369685-897D-4EC7-AB70-B9A844043BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2369685-897D-4EC7-AB70-B9A844043BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2369685-897D-4EC7-AB70-B9A844043BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68128DEF-3F0B-4AD1-A927-8312421D7F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68128DEF-3F0B-4AD1-A927-8312421D7F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68128DEF-3F0B-4AD1-A927-8312421D7F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68128DEF-3F0B-4AD1-A927-8312421D7F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB9A9DC-C964-4C1C-A5DF-015E7150055E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB9A9DC-C964-4C1C-A5DF-015E7150055E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB9A9DC-C964-4C1C-A5DF-015E7150055E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB9A9DC-C964-4C1C-A5DF-015E7150055E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3858CB-C701-4BB2-ABB1-BF61D6CA8126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3858CB-C701-4BB2-ABB1-BF61D6CA8126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3858CB-C701-4BB2-ABB1-BF61D6CA8126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3858CB-C701-4BB2-ABB1-BF61D6CA8126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66296169-1090-49DB-AF27-95D07E6D5184}
+	EndGlobalSection
+EndGlobal
